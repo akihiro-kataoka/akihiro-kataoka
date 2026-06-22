@@ -23,8 +23,8 @@
 <p align="center">
 
 <img src="https://img.shields.io/badge/STM32-MCU-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Teensy-4.1-black?style=for-the-badge" />
 <img src="https://img.shields.io/badge/ESP32-IoT-red?style=for-the-badge" />
+<img src="https://img.shields.io/badge/RP2354-MCU-purple?style=for-the-badge" />
 <img src="https://img.shields.io/badge/KiCad-PCB-green?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Fusion360-CAD-orange?style=for-the-badge" />
 <img src="https://img.shields.io/badge/C%2B%2B-Language-blue?style=for-the-badge" />
