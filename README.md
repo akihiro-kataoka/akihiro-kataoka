@@ -33,14 +33,6 @@
 
 ---
 
-## 🏆 GitHub Trophy
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=akihiro-kataoka&theme=tokyonight&column=4" />
-</p>
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
