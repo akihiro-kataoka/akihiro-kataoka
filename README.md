@@ -2,7 +2,7 @@
 
 # 👋 Hi there, I'm Akihiro Kataoka
 
-🚀 RoboCup Junior Infrared Team VEGA
+🚀 RoboCup Junior Soccer (Infrared) Team VEGA
 
 🤖 Robotics
 
@@ -12,7 +12,6 @@
 
 💻 C/C++
 
-<img src="https://komarev.com/ghpvc/?username=akihiro-kataoka&style=for-the-badge" />
 
 </div>
 
