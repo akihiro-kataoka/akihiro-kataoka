@@ -21,11 +21,6 @@
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics" />
-<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif" />
-<img src="https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad" />
-<img src="https://img.shields.io/badge/Autodesk_Fusion-FF6C37?style=for-the-badge&logo=autodesk" />
-</p>
 
 ---
 
