@@ -21,13 +21,6 @@
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/STM32-MCU-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/ESP32-IoT-red?style=for-the-badge" />
-<img src="https://img.shields.io/badge/RP2354-MCU-purple?style=for-the-badge" />
-<img src="https://img.shields.io/badge/KiCad-PCB-green?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Autodesk-Fusion-orange?style=for-the-badge" />
-<img src="https://img.shields.io/badge/C%2B%2B-Language-blue?style=for-the-badge" />
-
 <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics" />
 <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif" />
 <img src="https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad" />
