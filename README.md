@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi there, I'm Akihiro Kataoka
+# 👋 Hi there, I'm Kataoka Akihiro
 
 :jp: RoboCup Junior Soccer (Infrared) Team VEGA
 
@@ -80,6 +80,7 @@ VEGA
 
 Website
 - [VEGA-Site](https://github.com/akihiro-kataoka/Introduction-Site)
+
 ## 🚀 Current Projects
 
 - 🤖 RoboCup Junior Soccer Robot 2027
