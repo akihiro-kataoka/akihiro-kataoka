@@ -2,7 +2,7 @@
 
 # 👋 Hi there, I'm Akihiro Kataoka
 
-🚀 RoboCup Junior Soccer (Infrared) Team VEGA
+:jp: RoboCup Junior Soccer (Infrared) Team VEGA
 
 🤖 Robotics
 
@@ -10,7 +10,7 @@
 
 📐 KiCad / Autodesk Fusion
 
-💻 C/C++/python
+💻 C/C++/Python
 
 
 </div>
@@ -60,10 +60,10 @@
 ## 👨‍💻 About Me
 
 - 🤖 RoboCup Junior Soccer Competitor
-- ⚡ Embedded Systems Developer
+<!-- - ⚡ Embedded Systems Developer -->
 - 🔧 Designing custom PCBs with KiCad
 - 📐 Mechanical Design using Fusion 360
-- 💻 C/C++ Programming
+- 💻 C/C++/Python Programming
 - 🌱 Learning ROS 2 and Advanced Robotics
 
 ---
@@ -71,7 +71,5 @@
 ## 🚀 Current Projects
 
 - 🤖 RoboCup Junior Soccer Robot 2027
-- ⚡ STM32G474 Main Controller
-- 🔧 Custom 4-Layer PCB Design
-- 📡 Multi-Robot Communication
+
 - 🎯 BLDC Steering System
