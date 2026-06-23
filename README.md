@@ -81,6 +81,8 @@ VEGA
 Website
 - [VEGA-Site](https://github.com/akihiro-kataoka/Introduction-Site)
 
+---
+
 ## 🚀 Current Projects
 
 - 🤖 RoboCup Junior Soccer Robot 2027
