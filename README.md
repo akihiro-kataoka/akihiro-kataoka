@@ -68,6 +68,18 @@
 
 ---
 
+## 🛠️ list of Projects
+
+- Kataoka Akihiro
+- [RC-Car](https://github.com/akihiro-kataoka/RC-Car)
+- [Auto-drive](https://github.com/akihiro-kataoka/Auto-drive)
+- [Dev-note](https://github.com/akihiro-kataoka/Dev-note]
+
+- VEGA
+- [VEGA-Docs](https://github.com/akihiro-kataoka/VEGA_docs)
+
+- Website
+- [VEGA-Site](https://github.com/akihiro-kataoka/Introduction-Site)
 ## 🚀 Current Projects
 
 - 🤖 RoboCup Junior Soccer Robot 2027
