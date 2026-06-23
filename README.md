@@ -64,7 +64,7 @@
 - 🔧 Designing custom PCBs with KiCad
 - 📐 Mechanical Design using Fusion 360
 - 💻 C/C++/Python Programming
-- 🌱 Learning ROS 2 and Advanced Robotics
+- 🌱 Learning C/C++/Python/Rust/ROS 2 and Advanced Robotics
 
 ---
 
