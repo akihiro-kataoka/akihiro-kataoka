@@ -10,7 +10,7 @@
 
 📐 KiCad / Autodesk Fusion
 
-💻 C/C++
+💻 C/C++/python
 
 
 </div>
@@ -25,7 +25,9 @@
 <img src="https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white" />
 <img src="https://img.shields.io/badge/Autodesk_Fusion-000000?style=for-the-badge&logo=autodesk&logoColor=white" />
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 
+  
 </p>
 
 ---
