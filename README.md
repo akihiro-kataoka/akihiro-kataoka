@@ -71,7 +71,7 @@
 ## 🛠️ list of Projects
 
 Kataoka Akihiro
-- [RC-Car](https://github.com/akihiro-kataoka/RC-Car)
+- [FPV-RC-Car](https://github.com/akihiro-kataoka/FPV-RC-Car)
 - [Auto-drive](https://github.com/akihiro-kataoka/Auto-drive)
 - [Dev-note](https://github.com/akihiro-kataoka/Dev-note)
 
